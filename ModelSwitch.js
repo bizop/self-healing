@@ -4,7 +4,7 @@
 // FIND ME ON TWITTER: https://twitter.com/NathanWilbanks_
 // WEBSITE: https://jaqnjil.com
 // LICENSE: MIT License
-// VERSION: 3.29.2023
+// VERSION: 4.4.2023
 // COPYRIGHT: 2023 Nathan Wilbanks
 
 // Permission is hereby granted, free of charge, to any person obtaining a copy
